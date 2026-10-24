@@ -105,3 +105,9 @@ mark.todo{background:#FFE9A8;color:#4A3500;padding:0 .25em;border-radius:3px}
   .logo img{height:46px}
 }
 @media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+
+/* árak, portré */
+.price{font-weight:600;color:var(--text)}
+.portrait{margin:1.2rem 0 0;max-width:340px}
+.portrait img{width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;border-radius:18px;background:var(--tint)}
+@media (max-width:820px){.portrait{max-width:280px}}

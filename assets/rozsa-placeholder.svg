@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Coach beszélget egy ügyféllel">
+  <rect width="800" height="1000" fill="#EFE8DC"/>
+  <rect x="110" y="110" width="580" height="420" rx="14" fill="#F7F4ED"/>
+  <path d="M400 110v420M110 320h580" stroke="#DCCDB9" stroke-width="6"/>
+  <circle cx="610" cy="210" r="46" fill="#DCCDB9" opacity=".7"/>
+  <rect x="0" y="760" width="800" height="240" fill="#DCCDB9"/>
+  <!-- növény -->
+  <rect x="640" y="650" width="70" height="120" rx="10" fill="#BD8F91"/>
+  <path d="M675 650c-40-60-60-110-40-170M675 650c10-70 40-120 90-150M675 650c-5-50-5-100 5-150" stroke="#879B88" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <ellipse cx="635" cy="480" rx="22" ry="40" fill="#879B88" transform="rotate(-20 635 480)"/>
+  <ellipse cx="765" cy="500" rx="22" ry="40" fill="#879B88" transform="rotate(30 765 500)"/>
+  <ellipse cx="680" cy="500" rx="20" ry="42" fill="#879B88"/>
+  <!-- székek -->
+  <path d="M120 600v190M120 600h30M330 640v150M330 700h-120v90" stroke="#8B7868" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="120" y="690" width="210" height="18" rx="9" fill="#8B7868"/>
+  <path d="M480 640v150M470 700h130" stroke="#8B7868" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <rect x="470" y="690" width="170" height="18" rx="9" fill="#8B7868"/>
+  <!-- asztalka -->
+  <rect x="352" y="730" width="96" height="14" rx="7" fill="#8B7868"/>
+  <path d="M400 744v46M370 790h60" stroke="#8B7868" stroke-width="10" stroke-linecap="round"/>
+  <rect x="372" y="696" width="30" height="34" rx="6" fill="#F7F4ED"/>
+  <rect x="404" y="706" width="26" height="24" rx="6" fill="#F7F4ED"/>
+  <!-- coach (bal) -->
+  <path d="M130 690c-4-110 14-175 80-185 60-8 100 40 96 130l20 55H140z" fill="#BD8F91"/>
+  <path d="M290 590c40 20 70 55 112 76" stroke="#BD8F91" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <circle cx="404" cy="668" r="19" fill="#E4C3A8"/>
+  <rect x="190" y="438" width="40" height="52" rx="18" fill="#E4C3A8"/>
+  <circle cx="215" cy="400" r="62" fill="#E4C3A8"/>
+  <path d="M153 400c-6-70 40-100 90-90 44 8 58 50 40 112-10-40-22-62-62-66-38-4-62 14-68 44z" fill="#6B574A"/>
+  <path d="M153 400c-14 70-6 120 14 150-34-20-42-100-14-150z" fill="#6B574A"/>
+  <!-- ügyfél (jobb) -->
+  <path d="M470 690c-6-100 6-170 66-182 58-10 92 40 92 120l12 62z" fill="#879B88"/>
+  <path d="M488 590c-30 20-52 52-70 80" stroke="#879B88" stroke-width="34" fill="none" stroke-linecap="round"/>
+  <circle cx="418" cy="668" r="19" fill="#C9A184"/>
+  <rect x="520" y="436" width="40" height="52" rx="18" fill="#C9A184"/>
+  <circle cx="540" cy="398" r="60" fill="#C9A184"/>
+  <path d="M482 404c-4-62 36-82 76-76 40 6 56 36 50 78-14-34-34-46-62-46-30 0-52 14-64 44z" fill="#4A3F38"/>
+  <!-- szív / kapcsolódás -->
+  <path d="M388 520c-18-22-52-6-40 22 8 18 40 36 40 36s32-18 40-36c12-28-22-44-40-22z" fill="#BD8F91" opacity=".9" transform="translate(12 -110) scale(.8)"/>
+</svg>
