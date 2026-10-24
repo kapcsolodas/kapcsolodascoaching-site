@@ -116,5 +116,11 @@ mark.todo{background:#FFE9A8;color:#4A3500;padding:0 .25em;border-radius:3px}
 .process{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:32px 56px;align-items:center}
 .scene{margin:0}
 .scene img{width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;border-radius:18px}
-.portrait img{object-position:50% 20%}
+.portrait img{object-position:50% 30%}
 @media (max-width:820px){.process{grid-template-columns:1fr}}
+
+/* "Miért" szekció: logóból kivágott dekor */
+.why-side{align-self:start;position:sticky;top:32px}
+.why-art{margin-top:1.4rem;width:min(100%,360px);aspect-ratio:1/1;overflow:hidden;border-radius:50% 50% 50% 18px;background:var(--offwhite);position:relative}
+.why-art img{position:absolute;width:128%;max-width:none;left:-14%;top:-10%;opacity:.85}
+@media (max-width:820px){.why-side{position:static}.why-art{display:none}}
