@@ -130,3 +130,9 @@ mark.todo{background:#FFE9A8;color:#4A3500;padding:0 .25em;border-radius:3px}
 .grp p:last-child{margin-bottom:0}
 .grp strong{font-weight:600;color:var(--text)}
 .grp.pull p{font-family:var(--serif);font-size:1.2rem;line-height:1.5;color:var(--text)}
+.review{margin:0 auto;max-width:720px;text-align:center}
+.review .stars{color:var(--rose);font-size:1.4rem;letter-spacing:.2em}
+.review blockquote{margin:.8rem 0 1rem}
+.review blockquote p{font-family:var(--serif);font-weight:500;font-size:1.4rem;line-height:1.5;color:var(--text);margin:0}
+.review figcaption{font-size:.95rem;color:var(--text-soft)}
+#ertekeles{scroll-margin-top:16px}
