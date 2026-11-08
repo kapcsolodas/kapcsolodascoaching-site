@@ -144,3 +144,5 @@ mark.todo{background:#FFE9A8;color:#4A3500;padding:0 .25em;border-radius:3px}
 .reviews .review{max-width:none}
 .reviews .review blockquote p{font-size:1.25rem}
 @media (max-width:820px){.reviews{grid-template-columns:1fr;gap:40px}}
+.side-photo{margin-top:1.4rem;max-width:420px}
+@media (max-width:820px){.side-photo{display:none}}
