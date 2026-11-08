@@ -136,3 +136,11 @@ mark.todo{background:#FFE9A8;color:#4A3500;padding:0 .25em;border-radius:3px}
 .review blockquote p{font-family:var(--serif);font-weight:500;font-size:1.4rem;line-height:1.5;color:var(--text);margin:0}
 .review figcaption{font-size:.95rem;color:var(--text-soft)}
 #ertekeles{scroll-margin-top:16px}
+.faq-item{padding:1.4rem 0;border-bottom:1px solid var(--beige)}
+.faq-item:first-child{padding-top:0}
+.faq-item h3{margin:0 0 .4em}
+.faq-item p,.faq-item ul{margin:0}
+.reviews{display:grid;grid-template-columns:1fr 1fr;gap:48px;max-width:1040px;margin:0 auto}
+.reviews .review{max-width:none}
+.reviews .review blockquote p{font-size:1.25rem}
+@media (max-width:820px){.reviews{grid-template-columns:1fr;gap:40px}}
